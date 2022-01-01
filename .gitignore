@@ -1,0 +1,8 @@
+testenv.toml
+.vscode
+
+data/*
+!data/compare.txt
+!data/matches
+!data/matches/*
+data/matches/archive
